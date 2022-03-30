@@ -1,2 +1,3 @@
-# platform
-搜索中台，分布式
+# 采集器设计
+
+![](.gitbook/assets/image.png)
